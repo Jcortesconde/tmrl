@@ -118,7 +118,8 @@ install_req = [
     'pyinstrument',
     'tlspyo>=0.2.5',
     'chardet',  # requests dependency
-    'packaging'
+    'packaging',
+    'keyboard'
 ]
 
 # Dependencies for the TrackMania pipeline
